@@ -21,6 +21,3 @@ Passionate about building scalable APIs and clean architecture.
 ---
 
 - 📫 **How to reach me:** [t.me/yona34](https://t.me/yona34)
-
-### 📊 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Allcode-1&show_icons=true&theme=radical)
