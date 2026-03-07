@@ -42,4 +42,8 @@
 
 ---
 
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Allcode-1&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allcode-1&layout=compact&theme=transparent)
+
 - 📫 **How to reach me:** [t.me/yona34](https://t.me/yona34)
