@@ -1,7 +1,7 @@
 # Hi there, I'm Yona (Allcode-1) 👋
 
-### 🚀 Full-Stack / Backend Engineer (Python & Java)
-*Specializing in Clean Architecture, Scalable APIs, and Offline-First Systems.*
+### 🚀 Full-Stack / Backend Engineer (Python & TypeScript)
+*Specializing in Clean Architecture, Scalable APIs, and High-Load Distributed Systems.*
 
 ---
 
@@ -9,15 +9,16 @@
 
 **Backend & Core:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Databases & Infra:**
+**Databases & Infrastructure:**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Frontend & Mobile:**
@@ -29,16 +30,10 @@
 
 ### 🌟 Featured Projects
 
-* **OmniSource** — Media discovery ecosystem (Flutter + FastAPI). Features vector-based ML recommendations, multi-level caching (Redis), and automated CI/CD security gates.
-* **ePortfolio** — Enterprise-grade portfolio platform (Java 17, Spring Boot 3). Integrated with Clerk Auth, OpenAI for text optimization, and Prometheus for observability.
-* **Mobile Calendar** — Offline-first calendar app. Implemented custom sync protocol (LWW resolution) between SQLite and MongoDB.
-* **Quiz Engine API** — High-integrity testing backend with strict attempt policy enforcement and Redis-backed rate limiting.
-
----
-
-### 📈 Current Focus
-- 🧠 Deepening expertise in **Distributed Systems** and **Background Task Processing** (Celery/Redis).
-- 🏗️ Mastering **Production-grade Security** and **Infrastructure Observability**.
+* **OmniSource** — Media discovery ecosystem (Flutter + FastAPI). Built with Clean Architecture / DDD principles, featuring vector-based ML recommendations, multi-level caching (Redis), and automated CI/CD pipelines.
+* **ePortfolio API** — Enterprise-grade portfolio platform refactored into a scalable NestJS architecture. Integrated with modern OAuth providers, OpenAI for text optimization, and Prisma ORM for type-safe database operations.
+* **Distributed Task Queue & Metrics** — Backend system focused on infrastructure observability. Implemented background job handling, Prometheus/Grafana monitoring, and strict rate-limiting via Redis.
+* **Quiz Engine API** — High-integrity testing backend with strict attempt policy enforcement, state validation, and high-concurrency optimization.
 
 ---
 
