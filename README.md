@@ -63,9 +63,10 @@ and practical deployment.
 - Developer Tooling
 - Authentication & Authorization
 - Caching Strategies
-- Background Jobs
+- Background Processing
 - Performance Optimization
 - System Design
+- Distributed Systems
 
 ---
 
