@@ -42,7 +42,7 @@ Also familiar with
 
 ---
 
-## Projects
+## Selected Projects
 
 | Project | Focus | Stack |
 |----------|-------|-------|
