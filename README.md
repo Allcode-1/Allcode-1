@@ -2,11 +2,6 @@
 
 Python Backend Developer
 
-Python backend developer focused on building APIs, developer tools, and backend-focused fullstack applications. 
-
-My current focus is backend architecture, authentication, caching, background jobs,
-and practical deployment.
-
 ---
 
 ## Technologies
@@ -39,46 +34,6 @@ Also familiar with
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2)
 ![uv](https://img.shields.io/badge/uv-DE5FE9)
-
----
-
-## Selected Projects
-
-| Project | Focus | Stack |
-|----------|-------|-------|
-| 🛠️ PyArch | Developer Tooling | Typer · Jinja2 · FastAPI |
-| ⚙️ ProjectHub | Backend Engineering | FastAPI · PostgreSQL · Redis · Celery |
-| 🎬 OmniSource | Fullstack Platform | Flutter · FastAPI · MongoDB |
-| 📅 Mobile Calendar | Offline-first | Flutter · FastAPI |
-
----
-
-## Current Focus
-
-- Building PyArch
-- Improving backend architecture skills
-- Learning system design
-
----
-
-## Currently Learning
-
-- System Design
-- Linux / Ubuntu / VPS Administration
-- NestJS
-
----
-
-## Interested In
-
-- Backend Architecture
-- Developer Tooling
-- Authentication & Authorization
-- Caching Strategies
-- Background Processing
-- API Design
-- System Design
-- Database Design
 
 ---
 
