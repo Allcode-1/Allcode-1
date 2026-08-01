@@ -2,6 +2,10 @@
 
 Python Backend Developer
 
+I build APIs, developer tools, and backend-focused fullstack applications, with
+an emphasis on clear architecture, reliable data workflows, testing, and
+production-oriented infrastructure.
+
 ---
 
 ## Technologies
