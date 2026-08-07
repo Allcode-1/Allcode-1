@@ -49,4 +49,4 @@ Also familiar with
 ### Contact
 
 Telegram: **[@yona34](https://t.me/yona34)**
-Email: **[olzhasabdukakar@gmail.com](mailto:olzhasabdukakar@gmail.com)**
+Email: **[olzhasabdukakar@gmail.com](mailto:olzhasabdukakhar@gmail.com)**
